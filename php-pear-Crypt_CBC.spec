@@ -2,8 +2,8 @@
 %define		_class		Crypt
 %define		_subclass	CBC
 %define		_pearname	%{_class}_%{_subclass}
-Summary:	%{_class}_%{_subclass} - A class to emulate Perl's Crypt::CBC module
-Summary(pl):	%{_class}_%{_subclass} - Klasa emuluj±ca perlowy modu³ Crypt::CBC
+Summary:	%{_pearname} - A class to emulate Perl's Crypt::CBC module
+Summary(pl):	%{_pearname} - Klasa emuluj±ca perlowy modu³ Crypt::CBC
 Name:		php-pear-%{_pearname}
 Version:	0.3
 Release:	3
