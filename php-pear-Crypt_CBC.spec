@@ -6,7 +6,7 @@ Summary:	%{_class}_%{_subclass} - A class to emulate Perl's Crypt::CBC module
 Summary(pl):	%{_class}_%{_subclass} - Klasa emuluj±ca perlowy modu³ Crypt::CBC
 Name:		php-pear-%{_pearname}
 Version:	0.3
-Release:	2
+Release:	3
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
