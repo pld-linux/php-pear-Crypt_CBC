@@ -7,7 +7,7 @@ Summary:	%{_pearname} - A class to emulate Perl's Crypt::CBC module
 Summary(pl):	%{_pearname} - Klasa emuluj±ca perlowy modu³ Crypt::CBC
 Name:		php-pear-%{_pearname}
 Version:	0.4
-Release:	1
+Release:	2
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 # Source0-md5:	0463f7e12758b9ae1104af4e357da125
