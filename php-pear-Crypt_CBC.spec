@@ -1,6 +1,7 @@
 %include	/usr/lib/rpm/macros.php
 %define		_class		Crypt
 %define		_subclass	CBC
+%define		_status		stable
 %define		_pearname	%{_class}_%{_subclass}
 Summary:	%{_pearname} - A class to emulate Perl's Crypt::CBC module
 Summary(pl):	%{_pearname} - Klasa emuluj±ca perlowy modu³ Crypt::CBC
@@ -19,8 +20,12 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 A class to emulate Perl's Crypt::CBC module.
 
+This class has in PEAR status: %{_status}.
+
 %description -l pl
 Klasa emuluj±ca perlowy modu³ Crypt::CBC.
+
+Ta klasa ma w PEAR status: %{_status}.
 
 %prep
 %setup -q -c
