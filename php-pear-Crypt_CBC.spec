@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - A class to emulate Perl's Crypt::CBC module
-Summary(pl.UTF-8):   %{_pearname} - Klasa emulująca perlowy moduł Crypt::CBC
+Summary(pl.UTF-8):	%{_pearname} - Klasa emulująca perlowy moduł Crypt::CBC
 Name:		php-pear-%{_pearname}
 Version:	0.4
 Release:	4
