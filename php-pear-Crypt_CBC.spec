@@ -11,8 +11,8 @@ Version:	0.4
 Release:	4
 License:	PHP 2.02
 Group:		Development/Languages/PHP
-# Source0-md5:	0463f7e12758b9ae1104af4e357da125
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
+# Source0-md5:	0463f7e12758b9ae1104af4e357da125
 URL:		http://pear.php.net/package/Crypt_CBC/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
