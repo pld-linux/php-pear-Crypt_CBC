@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - A class to emulate Perl's Crypt::CBC module
 Summary(pl.UTF-8):	%{_pearname} - Klasa emulująca perlowy moduł Crypt::CBC
 Name:		php-pear-%{_pearname}
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	b31d27e5c20f87c9dfc5ca69eb2ae0ad
+# Source0-md5:	8ba5442cf07d89f53ced4a3786a4e360
 URL:		http://pear.php.net/package/Crypt_CBC/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
